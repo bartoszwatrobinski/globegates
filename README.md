@@ -21,3 +21,9 @@ This is why we built a Globe Gates - an application with a Web2 feel, but powere
 
 
 We deployed our own decentralised exchange, as well as our own 2 mock stable coin tokens in Solidity onto the EVM sidechain. We adapted the typical token exchange - by creating a contract that both transfers and converts in a single transaction. We leveraged XRP's cross border payments capabilities along with EVM's stablecoins, to create a tailored application bespoke to the XRP ecosystem. 
+
+Project Release pitch deck here (project demo is on slide 9): https://www.canva.com/design/DAGCYqTb1lg/8TuPYu16MgaJRtjKydq4dg/edit?utm_content=DAGCYqTb1lg&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
+
+This project WON the runner-up prize at the 2024 Ripple x EasyA Fintech Hackathon in Shoreditch, London: https://x.com/easya_app/status/1780170412778790955
+
+Our latest tweet: https://x.com/0xRowbo/status/1779447159043084418
